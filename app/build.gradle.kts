@@ -3,7 +3,8 @@ hereplugins {
 }
 
 android {
-    namespace = "com.google.ai.studio.qfilm" // أو اسم حزمة تطبيقك
+    namespace = "com.google.ai.studio.qfilm"
+
     compileSdk = 34
 
     defaultConfig {
