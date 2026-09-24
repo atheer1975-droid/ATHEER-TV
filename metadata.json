@@ -1,0 +1,7 @@
+{
+  "name": "QFilm TV",
+  "description": "تطبيق QFilm لشاشات التلفزيون الذكية مع دعم ريموت التحكم والماوس الافتراضي وعرض الأفلام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
